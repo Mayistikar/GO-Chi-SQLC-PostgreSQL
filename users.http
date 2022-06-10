@@ -1,0 +1,4 @@
+GET http://{{host}}{{port}}/users/1/name/any
+Accept: application/json
+
+###
